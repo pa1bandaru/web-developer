@@ -1,0 +1,28 @@
+img {
+    height: 20px;
+    width: 200px;
+}
+
+.color-title{
+    font-weight: normal;
+}
+
+#red {
+    color: rebeccapurple;
+}
+
+#blue {
+    color: purple;
+}
+
+#orange {
+    color: orangered;
+}
+
+#green {
+    color: greenyellow;
+}
+
+#yellow {
+    color: yellowgreen;
+}
